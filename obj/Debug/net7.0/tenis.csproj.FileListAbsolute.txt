@@ -1,0 +1,15 @@
+C:\Users\Andrés\tenis\bin\Debug\net7.0\tenis.exe
+C:\Users\Andrés\tenis\bin\Debug\net7.0\tenis.deps.json
+C:\Users\Andrés\tenis\bin\Debug\net7.0\tenis.runtimeconfig.json
+C:\Users\Andrés\tenis\bin\Debug\net7.0\tenis.dll
+C:\Users\Andrés\tenis\bin\Debug\net7.0\tenis.pdb
+C:\Users\Andrés\tenis\obj\Debug\net7.0\tenis.csproj.AssemblyReference.cache
+C:\Users\Andrés\tenis\obj\Debug\net7.0\tenis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrés\tenis\obj\Debug\net7.0\tenis.AssemblyInfoInputs.cache
+C:\Users\Andrés\tenis\obj\Debug\net7.0\tenis.AssemblyInfo.cs
+C:\Users\Andrés\tenis\obj\Debug\net7.0\tenis.csproj.CoreCompileInputs.cache
+C:\Users\Andrés\tenis\obj\Debug\net7.0\tenis.dll
+C:\Users\Andrés\tenis\obj\Debug\net7.0\refint\tenis.dll
+C:\Users\Andrés\tenis\obj\Debug\net7.0\tenis.pdb
+C:\Users\Andrés\tenis\obj\Debug\net7.0\tenis.genruntimeconfig.cache
+C:\Users\Andrés\tenis\obj\Debug\net7.0\ref\tenis.dll
